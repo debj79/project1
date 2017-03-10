@@ -16,6 +16,6 @@
 
 *Italic text*
 
-![Raven flying](/images/raven.jpg)
+![Raven flying](images/raven.jpg)
 Format: ![Alt Text](url)
 
